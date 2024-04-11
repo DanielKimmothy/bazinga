@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"name": "website",
+			"path": "../../everything/foldor/website"
+		},
+		{
+			"name": "code",
+			"path": "../Repo/code"
+		},
+		{
+			"name": "folder",
+			"path": "../../folder"
+		},
+		{
+			"name": "bazinga.code",
+			"path": "../bazinga.github.com/bazinga.code"
+		},
+		{
+			"name": "bazinga.code",
+			"path": "../bazinga.github.io/bazinga.code"
+		},
+		{
+			"name": "repocode",
+			"path": "../../repocode"
+		},
+		{
+			"name": "Repo",
+			"path": "../Repo"
+		},
+		{
+			"path": "../bazinga.github.io"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
