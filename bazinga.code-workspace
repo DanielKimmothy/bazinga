@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../foldor/website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bazinga"
+	}
+}
