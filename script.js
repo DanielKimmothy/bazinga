@@ -44,5 +44,5 @@ document.getElementById("doublebutton").onclick = function(){
     else{
         x = 1
     }
-}
+} w
 */
